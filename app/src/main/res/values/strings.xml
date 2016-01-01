@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <string name="action_settings">Настройки</string>
+    <string name="title_activity_image">Просмотр изображения</string>
+</resources>
